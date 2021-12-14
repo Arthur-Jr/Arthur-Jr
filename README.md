@@ -6,9 +6,7 @@
 - 🎓 &nbsp; Estudando atualmente na <a href="https://www.betrybe.com/">Trybe</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:
 
-  ![MongoDB](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Node.Js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
     
 
@@ -20,6 +18,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
   
 
 <h3> 💻 &nbsp;DevOps </h3>
