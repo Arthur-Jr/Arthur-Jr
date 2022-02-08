@@ -6,7 +6,6 @@
 - 🎓 &nbsp; Estudando atualmente na <a href="https://www.betrybe.com/">Trybe</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:
 
-  ![Node.Js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
     
 
@@ -19,6 +18,7 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
+  ![Node.Js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
   
