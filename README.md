@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Estudando atualmente na <a href="https://www.betrybe.com/">Trybe</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:
   
-  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
     
 
