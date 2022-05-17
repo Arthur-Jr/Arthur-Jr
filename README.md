@@ -2,8 +2,8 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Estudante de Desenvolvimento Web.
-- 🎓 &nbsp; Estudando atualmente na <a href="https://www.betrybe.com/">Trybe</a>.
+- 🤔 &nbsp; Desenvolvedor de Software.
+- 🎓 &nbsp; Formado pela <a href="https://www.betrybe.com/">Trybe</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:
   
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
