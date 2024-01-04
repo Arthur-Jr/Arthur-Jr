@@ -6,13 +6,14 @@
 - 🎓 &nbsp; Formado pela <a href="https://www.betrybe.com/">Trybe</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:
   
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
     
 
 <h3> :rocket: &nbsp;Stacks </h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -22,7 +23,6 @@
   ![Node.Js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 
 <h3> 💻 &nbsp;DevOps </h3>
@@ -42,14 +42,8 @@
 
 <br/>
 
-<a href="https://github.com/Arthur-Jr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Jr&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Arthur Junior](https://img.shields.io/badge/-Arthur--Jr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-jr/)](https://www.linkedin.com/in/arthur-jr/)
-[![Gmail Badge](https://img.shields.io/badge/-arthurjr1906@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurjr1906@gmail.com)](mailto:arthurjr1906@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arthurjr.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurjr.dev@gmail.com)](mailto:arthurjr.dev@gmail.com)
 [![GitHub Arthur Junior]( https://img.shields.io/github/followers/Arthur-Jr?label=follow&style=social)](https://github.com/Arthur-Jr)
